@@ -6,7 +6,7 @@ Jenkins/workspace/FortifyFP/transfer_csrftoekn.php(11) : rand()
 
 [62B86EF7BB87820C3C15B77E45AE3C4A : high : Insecure Randomness : semantic ]
 Users/psmkr/Desktop/CodeReview/phpvulnbank-master/transfer_csrftoekn.php(11) : rand()
-##Jenkins
+
 [B055006EF7068A667F406B648C12F273 : low : SQL Injection : semantic ]
 Jenkins/workspace/FortifyFP/profile.php(12) : mysqli_query()
 
